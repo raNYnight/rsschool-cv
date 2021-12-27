@@ -6,6 +6,8 @@
 * ### **Discord:**  *@ranynighty*
 * ### **email:** *rany4ka@gmail.com
 ## **About me**
+![Photo](https://imgur.com/a/lhuLdLm) 
+
 Hello, my name is Ilya. I’m 23 years old. I was born in Gomel, now I live in Osipovichi. I’m married. 
 I work as an engineer at a automobile factory. Extremely motivated for career change goal.
 
