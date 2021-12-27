@@ -23,4 +23,17 @@ My strength sides:
 * ### **Css-basics**
 * ### **Git-basics**
 
+## **Education**
+***Belarusian State Technological University, Faculty of Chemical Technology and Engineering***
+
+ ***September 2016 - January 2021***
+
+ ## **Code example**
+ ```
+ function multiply(a, b) {
+  return a * b
+} ​
+```
+
+
 
