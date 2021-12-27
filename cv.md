@@ -35,5 +35,9 @@ My strength sides:
 } ​
 ```
 
+## **Languages**
+* **English A2**
+* **Russian native**
+
 
 
