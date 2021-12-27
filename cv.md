@@ -1,6 +1,26 @@
 # **Ilya Baranouski**
-# **My contacts:**
+## **My contacts:**
 * ### **Phone number:** *+375(29)7754915*
 * ### **Telegram:**  *@ranynight*
-* ### **Instagram:**  *@ranynight*
+* ### **GitHub:**  *@ranynight*
+* ### **Discord:**  *@ranynighty*
 * ### **email:** *rany4ka@gmail.com
+## **About me**
+Hello, my name is Ilya. I’m 23 years old. I was born in Gomel, now I live in Osipovichi. I’m married. 
+I work as an engineer at a automobile factory. Extremely motivated for career change goal.
+
+
+My strength sides:
+
+* Puctual
+* Ambitious
+* disciplined
+* Patient
+* Honest
+
+## **My skills:**
+* ### **Html-basics**
+* ### **Css-basics**
+* ### **Git-basics**
+
+
