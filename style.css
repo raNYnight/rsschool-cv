@@ -1,0 +1,19 @@
+.article {
+    width: device-width;
+    padding: 0px;
+    margin: 10px;
+    border:rgb(0, 0, 0) 3px solid;
+    background-color: rgb(250, 203, 250);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
+.img {
+    float: right;
+    margin: 15px;
+    
+}
+
+h1 {
+    margin-left: 15px;
+}
