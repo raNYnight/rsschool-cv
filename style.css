@@ -1,19 +1,75 @@
-.article {
-    width: device-width;
-    padding: 0px;
-    margin: 10px;
-    border:rgb(0, 0, 0) 3px solid;
-    background-color: rgb(250, 203, 250);
-    font-family: 'Times New Roman', Times, serif;
+
+* {
+    box-sizing: border-box;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif 
+}
+
+body {
+    color: rgb(0, 0, 0);
     font-size: 14pt;
-}
-
-.img {
-    float: right;
-    margin: 15px;
     
+    scroll-behavior: smooth;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    padding-left: 10px;
+    
+    
+    background-color: #83d6ff;
+}
+main {
+    display: flex;
+    flex-direction: row;
 }
 
-h1 {
-    margin-left: 15px;
+article {
+    background-color: #e0e0e0;
+    
+    padding: 1em;
+    flex: 5;
+    order: 1;
+    line-height: 2;
 }
+
+nav {
+    padding-left: 5px;
+    padding-right: 5px;
+    flex: 1;
+    background-color: #589e6a;
+    order: 2;
+    line-height: 1;
+}
+
+article>img{
+    float: right;
+}
+
+
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 100%;
+    align-items: center;
+    padding-left: 10px;
+    background-color: #83d6ff;  
+}
+
+footer>h3 {
+    font-size: 32pt;
+}
+
+
+h3{
+    margin-left: 40px;
+}
+p{
+    text-indent:40px;
+}
+
