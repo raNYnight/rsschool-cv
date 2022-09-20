@@ -14,9 +14,9 @@ I work as an engineer at a automobile factory. Extremely motivated for career ch
 
 My strength sides:
 
-* Puctual
+* Punctual
 * Ambitious
-* disciplined
+* Disciplined
 * Patient
 * Honest
 
